@@ -1,7 +1,7 @@
 /* General styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f1f2;
+    background-color: #16404D;
     margin: 0;
     padding: 0;
     display: flex;
@@ -14,7 +14,7 @@ body {
     width: 100%;
     max-width: 600px;
     padding: 20px;
-    background-color: white;
+    background-color: #A6CDC6;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
@@ -40,12 +40,12 @@ body {
   
   button {
     padding: 10px;
-    background-color: #4CAF50;
-    color: white;
+    background-color: #DDA853;
+    color: black;
     border: none;
     cursor: pointer;
     border-radius: 4px;
-    font-size: 16px;
+    font-size: 20px;
   }
   
   button:hover {
